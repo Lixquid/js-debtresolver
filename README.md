@@ -24,6 +24,11 @@ Input should be lines in the format:
 
 ## Examples
 
+- **A**nna owes $4 to **B**randon
+- **B**randon owes $3 to **C**harlie
+- **C**harlie owes $1 to **D**ixie
+- **X**, **Y**, and **Z** have all ended up owing each other $2
+
 ``` sh
 $ ./debt-resolver.js
 A B 4
